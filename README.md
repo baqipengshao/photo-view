@@ -34,7 +34,7 @@
    缩略图包含属性:img-url,即原图地址, 如上 li 的父级 ul 中有5个子节点, 所以这5张图片将作为一组。
    缩略图可以用 li 或别的标签包裹，或者直接写成
    <div class="demo">
-      \<img class="img" img-url="图片地址" src="缩略图"\>
+      < img class="img" img-url="图片地址" src="缩略图"/>
       ...
    </div>
    
